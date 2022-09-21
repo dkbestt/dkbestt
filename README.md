@@ -7,3 +7,6 @@
 - ⚡ Fun fact: ... Tell me a fun fact about yourself
 
 ### Languages & Tools
+
+### My GitHub state
+<img src="https://github-readme-stats.vercel.app/api?username=dkbestt&show_icons=true"/>
