@@ -5,3 +5,5 @@
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... [Linkedin] : https://www.linkedin.com/in/divyangkanpariya
 - ⚡ Fun fact: ... Tell me a fun fact about yourself
+
+### Languages & Tools
