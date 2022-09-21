@@ -1,7 +1,5 @@
 ### Hi Everyone, I'm Divyang Kanpariya 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... reactJS, nodeJS, Laravel, Socket.io
 - 🌱 I’m currently learning ... AWS
 - 💬 Ask me about ... anything
