@@ -1,7 +1,6 @@
 ### Hi Everyone, I'm Divyang Kanpariya 👋
 
 - 🔭 I’m currently working on ... Laravel, reactJS, nodeJS, Socket.io
-- 🌱 I’m currently learning ... postgreSQL, GraphQL
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... [Linkedin] : https://www.linkedin.com/in/divyangkanpariya
 - ⚡ Fun fact: ... I am excited to know the opposite person's fun facts.
